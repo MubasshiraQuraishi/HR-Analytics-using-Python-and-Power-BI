@@ -50,9 +50,13 @@ I recently built an **interactive HR Analytics dashboard** using **Python** for 
 ### 💡 **Recommendations:**
 
 ✅ **Introduce structured promotion cycles** every 3–5 years to retain top talent and reduce stagnancy.
+
 ✅ **Recognize long-serving employees** to boost morale and commitment.
+
 ✅ **Enhance work-life balance policies**, especially in high-pressure departments like R\&D.
+
 ✅ **Address frequent travel burnout**—consider rotating responsibilities or providing travel flexibility.
+
 ✅ **Use predictive models** to proactively identify at-risk employees based on tenure, job involvement, and overtime trends.
 
 ---
